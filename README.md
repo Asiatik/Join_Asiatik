@@ -1,6 +1,11 @@
 # Join_Asiatik
 Welcome to the Asiatik! Join a community of open tech innovators across the border.
 
+Join the official channel 
+
+Gitter - https://gitter.im/asiatik-open 💬
+
+
 # How do I join?
 
 The community is open to everyone with a demonstrated interest in open technologies and follow best practices.
