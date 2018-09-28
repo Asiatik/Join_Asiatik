@@ -12,4 +12,6 @@ The community is open to everyone with a demonstrated interest in open technolog
 
 We’re starting with a small with a bunch of open source enthusiastic contributors. Let us know your interest, and we’ll review and send you an invitation for joining Asiatik.
 
-One possible way is to tell us through an issue [here](https://github.com/Asiatik/Join_Asiatik/issues/new).
+One possible way to join using this [link](https://orgmanager.miguelpiedrafita.com/join/36604391)
+
+Or tell us through an issue [here](https://github.com/Asiatik/Join_Asiatik/issues/new).
